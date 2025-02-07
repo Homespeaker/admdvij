@@ -7,7 +7,7 @@ import sqlite3
 TOKEN = "7784993116:AAG4uTM_4AVRAfRGGCjYUR9HgTBSo1CiTPI"
 bot = telebot.TeleBot(TOKEN)
 
-TOKENTWO = "7400504311:AAEBXNsozrwUolbpc1MWM3P6EAOoR2VZ-zc"
+TOKENTWO = "7619951368:AAGVQNCegA9JZMCyBAmdQCIPke_PTDefcyE"
 botspam = telebot.TeleBot(TOKENTWO)
 
 global photos
